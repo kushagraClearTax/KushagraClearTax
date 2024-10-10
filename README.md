@@ -12,15 +12,15 @@
 <img align="right"  width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt ="coding" />
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Go / Python / React**
+- 🔭 I’m currently working on **Java / Python / React**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kushagraClearTax/](https://github.com/kushagraClearTax/)
+- 👨‍💻 All of my projects are available at [https://github.com/kushagraClearTax](https://github.com/kushagraClearTax)
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **kushagramanojgupta@gmail.com**
+- 📫 How to reach me **kushagragupta@clear.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
