@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KushagraClearTax&show_icons=true&locale=en" alt="KushagraClearTax" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KushagraClearTax&" alt="KushagraClearTax" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KushagraClearTax" alt="KushagraClearTax" /></p>
